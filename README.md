@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Luíza;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarLuaz&show_icons=true&count_private=true&hide_border=true&title_color=BA55D3&icon_color=8B008B&text_color=BA55D3&bg_color=0d1117" alt="Mar Luaz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarLuaz&layout=compact&hide_border=true&title_color=BA55D3&text_color=8B008B&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarLuaz&show_icons=true&count_private=true&hide_border=true&title_color=BA55D3&icon_color=8B008B&text_color=f5f7fa&bg_color=0d1117" alt="Mar Luaz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarLuaz&layout=compact&hide_border=true&title_color=BA55D3&text_color=f5f7fa&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
